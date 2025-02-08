@@ -8,6 +8,6 @@
       ]
     }
     "@jupyterlab/translation-extension:plugin": {
-        "locale": "en"
+        "locale": "fr"
       }
   }
