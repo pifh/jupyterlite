@@ -6,7 +6,7 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
-    }
+    },
     "@jupyterlab/translation-extension:plugin": {
         "locale": "fr-FR"
       }
