@@ -1,5 +1,5 @@
 {
     "@jupyterlab/translation-extension:plugin": {
-        "locale": "fr-FR"
+        "locale": "fr_FR"
       }
   }
